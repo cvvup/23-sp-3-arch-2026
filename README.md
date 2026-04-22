@@ -10,9 +10,9 @@
 `cvvup/23-sp-3-hm:latest`
 
 ## Структура репозитория
-- [laba1](/Users/mariakhaidukova/Desktop/3%20course/Docker/laba1) - лабораторная работа 1, контейнеризация приложения с помощью Docker и Docker Compose
-- [laba2](/Users/mariakhaidukova/Desktop/3%20course/Docker/laba2) - лабораторная работа 2, кеширование с использованием KeyDB/Redis и стратегия `cache-aside`
-- [laba3](/Users/mariakhaidukova/Desktop/3%20course/Docker/laba3) - лабораторные работы 3, 4 и 5 на базе многомодульного приложения `archapp`
+- [laba1](https://github.com/cvvup/23-sp-3-arch-2026/tree/main/laba1) - лабораторная работа 1, контейнеризация приложения с помощью Docker и Docker Compose
+- [laba2](https://github.com/cvvup/23-sp-3-arch-2026/tree/main/laba2) - лабораторная работа 2, кеширование с использованием KeyDB/Redis и стратегия `cache-aside`
+- [laba3](https://github.com/cvvup/23-sp-3-arch-2026/tree/main/laba3) - лабораторные работы 3, 4 и 5 на базе многомодульного приложения `archapp`
 
 ## Кратко по лабораторным
 
